@@ -7,4 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1070-product-sales-analysis-iii](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/1070-product-sales-analysis-iii) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
