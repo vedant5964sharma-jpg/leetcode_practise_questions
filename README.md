@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0596-classes-with-at-least-5-students) |
 | [1070-product-sales-analysis-iii](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/1070-product-sales-analysis-iii) |
 ## Array
 |  |
