@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0175-combine-two-tables) |
 | [0596-classes-with-at-least-5-students](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0619-biggest-single-number) |
 | [1070-product-sales-analysis-iii](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/1070-product-sales-analysis-iii) |
