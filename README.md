@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0141-linked-list-cycle) |
 ## Sorting
 |  |
 | ------- |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0094-binary-tree-inorder-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
