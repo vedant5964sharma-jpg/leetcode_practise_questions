@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0141-linked-list-cycle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
