@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1667-fix-names-in-a-table](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/1667-fix-names-in-a-table) |
 | [1729-find-followers-count](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Array
