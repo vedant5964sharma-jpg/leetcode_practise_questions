@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0141-linked-list-cycle) |
 ## Sorting
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0141-linked-list-cycle) |
 ## Dynamic Programming
 |  |
