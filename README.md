@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0141-linked-list-cycle) |
+| [0237-delete-node-in-a-linked-list](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
