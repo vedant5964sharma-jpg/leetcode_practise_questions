@@ -44,16 +44,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0268-missing-number](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0141-linked-list-cycle) |
+| [0268-missing-number](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -109,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
