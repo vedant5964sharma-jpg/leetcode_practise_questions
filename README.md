@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0283-move-zeroes) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0141-linked-list-cycle) |
