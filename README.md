@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/1572-matrix-diagonal-sum) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -173,4 +174,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/1572-matrix-diagonal-sum) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 <!---LeetCode Topics End-->
