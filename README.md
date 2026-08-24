@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0485-max-consecutive-ones) |
+| [0867-transpose-matrix](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/1572-matrix-diagonal-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
