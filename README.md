@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0485-max-consecutive-ones) |
+| [0646-maximum-length-of-pair-chain](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0867-transpose-matrix](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0646-maximum-length-of-pair-chain](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Stack
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0509-fibonacci-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -187,9 +190,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0646-maximum-length-of-pair-chain](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
