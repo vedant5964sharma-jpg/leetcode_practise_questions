@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0485-max-consecutive-ones) |
 | [0867-transpose-matrix](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0435-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0509-fibonacci-number) |
 ## Breadth-First Search
 |  |
@@ -175,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/1572-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
