@@ -202,4 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0646-maximum-length-of-pair-chain) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
