@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0435-non-overlapping-intervals) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0169-majority-element) |
 ## Simulation
 |  |
 | ------- |
@@ -221,4 +225,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0142-linked-list-cycle-ii) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
