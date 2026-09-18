@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0324-wiggle-sort-ii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0324-wiggle-sort-ii) |
 | [0435-non-overlapping-intervals](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0435-non-overlapping-intervals) |
@@ -236,10 +239,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0229-majority-element-ii) |
 ## Quickselect
 |  |
 | ------- |
