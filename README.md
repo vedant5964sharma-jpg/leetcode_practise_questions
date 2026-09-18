@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0435-non-overlapping-intervals) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/2149-rearrange-array-elements-by-sign) |
