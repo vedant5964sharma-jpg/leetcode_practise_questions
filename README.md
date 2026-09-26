@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0128-longest-consecutive-sequence) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0509-fibonacci-number) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0205-isomorphic-strings) |
