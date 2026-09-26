@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0876-middle-of-the-linked-list) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0242-valid-anagram) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/1957-delete-characters-to-make-fancy-string) |
