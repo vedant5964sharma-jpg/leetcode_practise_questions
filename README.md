@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0205-isomorphic-strings) |
@@ -273,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0796-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
