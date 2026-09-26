@@ -267,5 +267,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0242-valid-anagram) |
+| [0796-rotate-string](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0796-rotate-string) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/1957-delete-characters-to-make-fancy-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
