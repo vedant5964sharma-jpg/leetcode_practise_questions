@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/1129-shortest-path-with-alternating-colors) |
 ## Recursion
 |  |
 | ------- |
@@ -297,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0374-guess-number-higher-or-lower) |
+## Graph Theory
+|  |
+| ------- |
+| [1129-shortest-path-with-alternating-colors](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/1129-shortest-path-with-alternating-colors) |
 <!---LeetCode Topics End-->
