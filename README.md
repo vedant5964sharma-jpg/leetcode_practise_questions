@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0169-majority-element) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/vedant5964sharma-jpg/leetcode_practise_questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Divide and Conquer
